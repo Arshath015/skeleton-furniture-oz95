@@ -121,3 +121,10 @@ This submodule is licensed under the MIT License. See LICENSE for more informati
 
 ---
 **Last updated:** 2026-07-20
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
