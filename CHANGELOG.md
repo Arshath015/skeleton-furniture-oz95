@@ -40,3 +40,6 @@ All notable changes to this project are documented here.
 
 ### 2026-10-20
 - Minor internal housekeeping and dependency review.
+
+### 2026-11-17
+- Reviewed open items and updated project notes.
